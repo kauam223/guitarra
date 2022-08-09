@@ -1,0 +1,68 @@
+aula.css
+body {
+	
+}
+
+#guitarra {
+	width:70%;
+}
+
+.principal{
+	background: #FF0000;
+	padding: 30px;
+}
+
+h1 {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color:  #0000CD;
+}
+
+.itens {
+	font-style: italic
+}
+
+.beneficios {
+	background: #FF0000;
+	padding: 20px; /* ESPAÇAMENTO ENTRE OS ELEMENTOS*/
+}
+
+h2 {
+	text-align: center;
+}
+ul {
+	display: inline-block; /* AJUSTAR O CONTEÚDO*/
+	vertical-align: top; /* ALINHAR EM CIMA*/
+	width: 20%; /* TAMANHO DO ELEMENTO DA LARGURA*/
+	margin-right: 15%; /* TAMANHO PARA A DIREITA*/
+
+
+#imagem {
+	width: 50%;
+}
+#xuxa {
+	width: 50%
+}
+#kauam{
+	width: 50%
+{
+#pele{
+	width: 50%;
+}
+#sg{
+	width: 50%;
+}
+#jaguar{
+	width: 20%;
+}
+}
